@@ -1,5 +1,3 @@
-// Import Assets
-import profile from '../assets/profile.jpeg';
 
 const About = () => {
     return (
