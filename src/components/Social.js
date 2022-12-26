@@ -12,7 +12,7 @@ const Social = () => {
         fiatbruno10@gmail.com
       </a>
       <a
-        href="https://twitter.com/"
+        href="https://twitter.com/bruno_fiat"
         className="button"
         target="_blank"
         rel="noreferrer"
@@ -20,7 +20,7 @@ const Social = () => {
         Twitter
       </a>
       <a
-        href="https://www.linkedin.com/"
+        href="https://www.linkedin.com/in/fiat-bruno/"
         className="button"
         target="_blank"
         rel="noreferrer"
@@ -28,7 +28,7 @@ const Social = () => {
         LinkedIn
       </a>
       <a
-        href="https://github.com/"
+        href="https://github.com/fiatbruno"
         className="button"
         target="_blank"
         rel="noreferrer"
