@@ -1,7 +1,7 @@
 // Import Assets
-import uniswap from "../assets/uniswap.png";
-import compound from "../assets/compound.png";
-import aave from "../assets/aave.png";
+import moneyswap from "../assets/comingsoon.png";
+import inzoo from "../assets/comingsoon.png";
+import eths from "../assets/comingsoon.png";
 
 const Projects = () => {
   return (
@@ -10,16 +10,15 @@ const Projects = () => {
 
       <div className="projects__cards">
         <div className="projects__card">
-          <h3>Uniswap</h3>
-          <img src={uniswap} alt="Uniswap Swap Page" />
+          <h3>Moneyswap</h3>
+          <img src={moneyswap} alt="Moneyswap Swap Page" />
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            consectetur facere neque assumenda quasi aliquid, perferendis
-            ratione rerum dolorem.
+            Decentralized money transfering platform. Facilitates
+            international transfers and provides extra support for large transactions.
           </p>
 
           <a
-            href="https://uniswap.org/"
+            href="https://google.com/"
             target="_blank"
             className="button"
             rel="noreferrer"
@@ -27,7 +26,7 @@ const Projects = () => {
             Site
           </a>
           <a
-            href="https://github.com/Uniswap/v2-core"
+            href="https://github.com/"
             target="_blank"
             className="button"
             rel="noreferrer"
@@ -37,16 +36,15 @@ const Projects = () => {
         </div>
 
         <div className="projects__card">
-          <h3>Compound</h3>
-          <img src={compound} alt="Compound Landing Page" />
+          <h3>Inzoo</h3>
+          <img src={inzoo} alt="Inzoo Landing Page" />
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            consectetur facere neque assumenda quasi aliquid, perferendis
-            ratione rerum dolorem.
+            Decentralized real estate buying & selling platform.
+            Streamlines the house buying & selling process. Reduces fees to nearly zero.
           </p>
 
           <a
-            href="https://compound.finance/"
+            href="https://google.com/"
             target="_blank"
             className="button"
             rel="noreferrer"
@@ -54,7 +52,7 @@ const Projects = () => {
             Site
           </a>
           <a
-            href="https://github.com/compound-finance/compound-protocol"
+            href="https://github.com/"
             target="_blank"
             className="button"
             rel="noreferrer"
@@ -64,16 +62,15 @@ const Projects = () => {
         </div>
 
         <div className="projects__card">
-          <h3>Aave</h3>
-          <img src={aave} alt="Aave Landing Page" />
+          <h3>.eths</h3>
+          <img src={eths} alt=".eths Landing Page" />
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            consectetur facere neque assumenda quasi aliquid, perferendis
-            ratione rerum dolorem.
+            WEB3-based domain provider for decentralized applications.
+            More efficent pricing model with a secure certificate of ownership.
           </p>
 
           <a
-            href="https://aave.com/"
+            href="https://google.com/"
             rel="noreferrer"
             target="_blank"
             className="button"
@@ -81,7 +78,7 @@ const Projects = () => {
             Site
           </a>
           <a
-            href="https://github.com/aave/aave-v3-core"
+            href="https://github.com/"
             target="_blank"
             className="button"
             rel="noreferrer"
