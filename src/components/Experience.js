@@ -15,7 +15,7 @@ const Experience = () => {
                     <ul>
                         <li>Worked on Wordpress Development</li>
                         <li>Assisted in Research &amp; Development of Digital Products</li>
-                        <li>Data Collectin &amp; Analysis for Statistical Reports</li>
+                        <li>Data Collection &amp; Analysis for Statistical Reports</li>
                     </ul>
                 </li>
             </ul>
