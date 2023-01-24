@@ -13,13 +13,13 @@ const Projects = () => {
           <h3>DLottery</h3>
           <img src={dlottery} alt="Decentralized Lottery Page" />
           <p>
-            Decentralized lottery platform. DeFi lottery systems offers users the option
-            to make big bucks without leaving their homes, more and more
-            consumers are switching to them from conventional lotteries...
+            Decentralized lottery platform. DeFi lottery systems offers users
+            the option to make big bucks without leaving their homes, more and
+            more consumers are switching to them from conventional lotteries...
           </p>
 
           <a
-            href="https://google.com/"
+            href="https://nextjs-decentralized-lottery-deploy-qgjbf9fwu-fiatbruno.vercel.app/"
             target="_blank"
             className="button"
             rel="noreferrer"
@@ -27,7 +27,7 @@ const Projects = () => {
             Site
           </a>
           <a
-            href="https://github.com/"
+            href="https://github.com/fiatbruno/hardhat-decentralized-lottery"
             target="_blank"
             className="button"
             rel="noreferrer"
