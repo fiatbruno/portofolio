@@ -19,7 +19,7 @@ const Projects = () => {
           </p>
 
           <a
-            href="https://nextjs-decentralized-lottery-deploy-qgjbf9fwu-fiatbruno.vercel.app/"
+            href="https://round-hill-7812.on.fleek.co"
             target="_blank"
             className="button"
             rel="noreferrer"
